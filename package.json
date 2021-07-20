@@ -9,7 +9,12 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "react-three-fiber": "5.3.10",
+    "three": "0.123.0",
+    "react-colorful": "4.4.4",
+    "drei": "2.2.12",
+    "valtio": "0.4.8"
   },
   "scripts": {
     "start": "react-scripts start",
